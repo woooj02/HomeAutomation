@@ -1,1 +1,1 @@
-# MiniHomeAutomation
+HomeAutomation
